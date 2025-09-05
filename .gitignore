@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
